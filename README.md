@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+sql data client
+https://claude.ai/share/8781966a-ed98-4606-bc17-699d8ec1404c
+
+
+
